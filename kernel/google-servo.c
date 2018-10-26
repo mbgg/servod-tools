@@ -22,7 +22,6 @@
 #include <linux/slab.h>
 #include <linux/module.h>
 #include <linux/mutex.h>
-#include <asm/uaccess.h>
 #include <linux/usb.h>
 
 #define GOOGLE_SERVO_MINOR_BASE	160
